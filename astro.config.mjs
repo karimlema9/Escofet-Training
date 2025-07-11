@@ -11,5 +11,5 @@ export default defineConfig({
       ],
     },
     site: 'https://karimlema9.github.io',
-    base: 'Escofet-Training',
+    base: '/Escofet-Training',
   });
